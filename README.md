@@ -1,4 +1,4 @@
-# hello-world
+# app-vue-cadastro
 
 ## Project setup
 ```
